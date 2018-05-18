@@ -1,0 +1,9 @@
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.Form1.resources
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.Properties.Resources.resources
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.GenerateResource.Cache
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
+c:\users\ekko.xu\documents\visual studio 2013\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojResolveAssemblyReference.cache
